@@ -1,2 +1,2 @@
 run first in terminal
-pin\scripts\activate
+**pin\scripts\activate**
